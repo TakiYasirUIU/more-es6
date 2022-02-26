@@ -21,5 +21,6 @@ const output2 = [];
 const output = numbers.map(x => x * 2);
 console.log(output);
 
+
 const squares = numbers.map(x => x * x);
 console.log(squares);
